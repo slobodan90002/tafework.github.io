@@ -1,0 +1,92 @@
+body,html {
+	margin: 0 !important;
+}
+.topnav {
+    background-color: #E7BD20;
+    overflow: hidden;
+}
+
+.topnav a {
+    display: inline-block;
+    color: #000000;
+    text-align: center;
+    padding: 8px 90px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #E7A220;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #E79620;
+    color: black;
+}
+
+.h1 {
+	color: orange;
+	font-family: arial;
+	text-align: center;
+	position: relative;
+	margin-top: 0px;
+	background-color: #000000;
+}
+
+.headerimg {
+	 background-image: url("img/background.png");
+	 width: 100%;
+}
+#fbicon {
+	float: right;
+}
+#findus {
+	text-align: center;
+	padding: 35px 0px;
+}
+#largebox {
+	width: 800px;
+	height: 100px;
+    padding: 30px 0px;
+	margin-left: auto;
+    margin-right: auto;
+}
+#test1 {
+	height: 300px;
+	width: 250px;
+	float: left;
+	text-align: center;
+}
+#test2 {
+	height: 300px;
+	width: 250px;
+	float: left;
+	text-align: center;
+	padding: 0px 25px;
+}
+#test3 {
+	height: 300px;
+	width: 250px;
+	float: right;
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+ }
+ 
+#qualitycar {
+	height: 80px;
+	position: relative;
+	margin: auto;
+}
+#pic {
+	width: 100%;
+	height: 280px;
+	position: relative;
+	margin: auto;
+	
+}
